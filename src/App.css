@@ -1,0 +1,86 @@
+/* table, tr, td, th{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+table{
+  width: 80%;
+  margin: 0 auto;
+}
+
+.cardProduct{
+  display: flex;
+  width: 100%;
+  gap: 20px;
+  padding: 15px;
+  border: 2px solid red;
+}
+.create{
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+.nav{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 100%;
+  height: 80px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.05);
+  background-color: white;
+}
+.nav__div{
+  display: flex;
+  gap: 15px;
+  cursor: pointer;
+}
+.nav__div h4{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fd5f00;
+  font-size: 32px;
+  font-family: Anton;
+  font-weight: 900;
+  letter-spacing: 3.2;
+}
+.Text__ul{
+  list-style-type: none;
+  display: flex;
+  gap: 45px;
+  cursor: pointer;
+  position: relative;
+}
+.Text__ul li{
+  color: black;
+}
+
+
+
+.Header{
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  width: 100%;
+  height: 700px;
+  background: url(https://preview.colorlib.com/theme/foundation/images/hero_1.jpg);
+  background-size: cover;
+
+}
+
+.directior{
+  text-decoration: none;
+  color: black;
+
+}
+.directior:focus{
+  color:#fd5f00;
+}
+
+.Footer__container{
+  width: 100%;
+  height: 400px;
+  background-color: rgb(73, 61, 61);
+} */
+
